@@ -1,0 +1,10 @@
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\bin\Release\PhoneBook.exe.config
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\bin\Release\PhoneBook.exe
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\bin\Release\PhoneBook.pdb
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\bin\Release\EntityFramework.dll
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\bin\Release\EntityFramework.xml
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\obj\Release\attfire1_PhoneBook.Form1.resources
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\obj\Release\PhoneBook.Properties.Resources.resources
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\obj\Release\attfire1_PhoneBook.csproj.GenerateResource.Cache
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\obj\Release\PhoneBook.exe
+F:\Otago Polytech\2013\semester2\IN705 - Databases 3\week8\lab1\lab 1 practical\attfire1_PhoneBook\attfire1_PhoneBook\obj\Release\PhoneBook.pdb
